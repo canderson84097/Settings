@@ -60,6 +60,7 @@
 		1AD5779C1CBEA8730074DBE6 /* SettingsMiniProject */ = {
 			isa = PBXGroup;
 			children = (
+				1AD577A11CBEA8730074DBE6 /* Main.storyboard */,
 				1AD5779D1CBEA8730074DBE6 /* AppDelegate.swift */,
 				9D5EF6431D90558000D4952C /* Model */,
 				9D5EF6441D90558500D4952C /* View Controllers */,
@@ -72,7 +73,6 @@
 		9D5EF6421D90557000D4952C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				1AD577A11CBEA8730074DBE6 /* Main.storyboard */,
 				1AD577A41CBEA8730074DBE6 /* Assets.xcassets */,
 				1AD577A61CBEA8730074DBE6 /* LaunchScreen.storyboard */,
 				1AD577A91CBEA8730074DBE6 /* Info.plist */,
@@ -147,6 +147,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
